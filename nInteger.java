@@ -2,7 +2,7 @@
 public class nInteger {
 	
 	public static void main(String[] args) {
-		writeNums(-1);
+		writeNums(5);
 	}
 	
 	public static void writeNums(int n) {
