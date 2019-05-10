@@ -55,6 +55,6 @@ public static String maxOccurrences(LinkedList<Integer> list) {
 //					mystery3(17) => 8 
 
 													/* Groups Names	CAMILA CHRISTENSEN
-													 * 				ANDY FESSEL
-													 * 				ASGEDOM HAILEMARIAM
+													 * 		ANDY FESSEL
+													 * 		ASGEDOM HAILEMARIAM
 													*/		
